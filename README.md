@@ -1,1 +1,1 @@
-this repository is written in Vietnamese
+the PDF file is written in Vietnamese. It include 2 parts, part I is theorical stuffs like making intuition about Neural Network, how Neural Network can approximate any dataset, introduction to 2 kinds of Neural Network. Part II is implementation
